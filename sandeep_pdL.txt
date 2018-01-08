@@ -1,4 +1,4 @@
-FirstNAME: Sandeep reddy 1.0
+FirstNAME: Sandeep reddy 2.0
 Last name: Yellu (AWS certified architect associate)
 Education:  MS in Computer information Systems  (July 2015 To Sep 2016) from California university of management in arlington virginia.
 Bsc (osmania univesiy) 2010	
